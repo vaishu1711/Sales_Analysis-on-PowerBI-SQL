@@ -12,8 +12,10 @@
 ## 🖼️ Introduction Page
 
 > The introduction page gives a comprehensive overview of the entire report — listing all 8 dashboard pages with their descriptions, colour-coded by theme.
-
-![Introduction Page](![alt text](Introduction.png))
+<details>
+![Introduction Page](Final Insights/Introduction.png)
+<summary>(![alt text](Introduction-2.png))</summary>
+</details>
 
 **Title:** Retail Sales for Business Intelligence
 
@@ -45,7 +47,7 @@
 
 > The conclusion page consolidates the most critical patterns, anomalies and strategic recommendations derived from the entire 4-year sales dataset.
 
-![Conclusion Page](![alt text](category_analysis.png))
+![Conclusion Page](Final Insights/Conclusion.png)
 
 **Title:** Key Findings & Business Summary
 
