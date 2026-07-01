@@ -12,7 +12,10 @@
 ## 🖼️ Introduction Page
 
 > The introduction page gives a comprehensive overview of the entire report — listing all 8 dashboard pages with their descriptions, colour-coded by theme.
-![Introduction Page](Final Insights/Introduction.png)
+<details>
+![Introduction Page](Final%20Insights/Introduction.png)
+<summary>(![alt text](Introduction-2.png))</summary>
+</details>
 
 **Title:** Retail Sales for Business Intelligence
 
@@ -44,7 +47,7 @@
 
 > The conclusion page consolidates the most critical patterns, anomalies and strategic recommendations derived from the entire 4-year sales dataset.
 
-![Conclusion Page](Final Insights/Conclusion.png)
+![Conclusion Page](Final%20Insights/Conclusion.png)
 
 **Title:** Key Findings & Business Summary
 
@@ -371,8 +374,8 @@ DimProduct ── FactSales ── DimSalesRep
 - `DimSalesRep` — SalesRepName
 - `DimCountry` — Country name
 
-> 📸 *See `/screenshots/data_model_relationships.png` for the full relationship diagram.*
-<img src="Fact_dimension relationship.png" alt="App Screenshot" width="500">
+> 📸 *See `/Final%20Insights/data_model_relationships.png` for the full relationship diagram.*
+<img src="Final%20Insights/data_model_relationships.png" alt="App Screenshot" width="500">
 
 ---
 
@@ -460,18 +463,18 @@ RETURN DIVIDE(CurrentM - PrevM, PrevM)
 
 | Page | Description |
 |---|---|
-| ![Introduction](![alt text](Introduction-1.png)) | Introduction Page — Report Navigator |
-| ![KPI Overview](![alt text](kpi_overview.png)) | KPI Summary Cards |
-| ![Daily Sales](![alt text](daily_sales_value.png)) | Average Daily Sales Value |
-| ![Waterfall](![alt text](revenue_waterfall.png)) | Product Revenue Waterfall |
-| ![QoQ Growth](![alt text](qoq_growth.png)) | Quarter on Quarter Growth |
-| ![MoM Growth](![alt text](mom_growth.png)) | Month on Month Growth |
-| ![Sales Reps](![alt text](top5_sales_reps.png)) | Top 5 Sales Representatives |
-| ![Country](![alt text](country_analysis.png)) | Country Performance |
-| ![Category](![alt text](category_analysis-1.png)) | Category Key Breakdown |
-| ![Price Range](![alt text](price_range.png)) | Price Range Analysis |
-| ![Data Model](![alt text](data_model_relationships.png)) | Star Schema Relationships |
-| ![Conclusion](![alt text](Conclusion.png)) | Conclusion Page — Key Findings & Recommendations |
+| ![Introduction](!Final%20Insights/Introduction.png) | Introduction Page — Report Navigator |
+| ![KPI Overview](!Final%20Insights/kpi_overview.png) | KPI Summary Cards |
+| ![Daily Sales](!Final%20Insights/daily_sales_value.png) | Average Daily Sales Value |
+| ![Waterfall](!Final%20Insights/revenue_waterfall.png) | Product Revenue Waterfall |
+| ![QoQ Growth](!Final%20Insights/qoq_growth.png) | Quarter on Quarter Growth |
+| ![MoM Growth](!Final%20Insights/mom_growth.png) | Month on Month Growth |
+| ![Sales Reps](!Final%20Insights/top5_sales_reps.png) | Top 5 Sales Representatives |
+| ![Country](!Final%20Insights/country_analysis.png) | Country Performance |
+| ![Category](!Final%20Insights/category_analysis.png) | Category Key Breakdown |
+| ![Price Range](!Final%20Insights/price_range.png) | Price Range Analysis |
+| ![Data Model](!Final%20Insights/data_model_relationships.png) | Star Schema Relationships |
+| ![Conclusion](!Final%20Insights/Conclusion.png) | Conclusion Page — Key Findings & Recommendations |
 
 
 ---
