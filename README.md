@@ -12,10 +12,7 @@
 ## 🖼️ Introduction Page
 
 > The introduction page gives a comprehensive overview of the entire report — listing all 8 dashboard pages with their descriptions, colour-coded by theme.
-<details>
 ![Introduction Page](Final Insights/Introduction.png)
-<summary>(![alt text](Introduction-2.png))</summary>
-</details>
 
 **Title:** Retail Sales for Business Intelligence
 
